@@ -2,7 +2,7 @@
 Restaurant app to learn reactjs.
 
 ##
-![https://github.com/ramazandogna/restaurant-app-reactjs/blob/main/img/restourant-app-reactjs.jpg]
+![app picture 1](https://github.com/ramazandogna/restaurant-app-reactjs/blob/main/img/restourant-app-reactjs.jpg)
 ## For start;
 1- cd api
 2- json-server --watch db.json
